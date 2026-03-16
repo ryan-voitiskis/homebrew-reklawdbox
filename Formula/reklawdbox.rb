@@ -2,12 +2,12 @@ class Reklawdbox < Formula
   desc "MCP server for Rekordbox library management"
   homepage "https://reklawdbox.com"
   license "MIT"
-  version "0.6.0"
+  version "0.7.0"
 
   on_macos do
     on_arm do
       url "https://github.com/ryan-voitiskis/reklawdbox/releases/download/v#{version}/reklawdbox-v#{version}-aarch64-apple-darwin.tar.gz"
-      sha256 "cac7a7479e1d99b3fa255fb5399dc3bcd18583655a6c30adb04deb3ac35f2807"
+      sha256 "f78c14bcb7f27fc54224a7937a2b57a5409c42580209d0d57838f352ce393b64"
     end
   end
 
