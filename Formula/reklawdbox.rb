@@ -7,7 +7,7 @@ class Reklawdbox < Formula
   on_macos do
     on_arm do
       url "https://github.com/ryan-voitiskis/reklawdbox/releases/download/v#{version}/reklawdbox-v#{version}-aarch64-apple-darwin.tar.gz"
-      sha256 "730c3b4b64fd8965f65d8f58f26d6877f9989a1fad16f58469b687a5012504d0"
+      sha256 "de1879b67461a6826af9cf1cd36cc0ce05207a40b9a8d81308389aaddeeb6b4f"
     end
   end
 
